@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Geshman1323
-- 👀 I’m interested in Web development
+- 👀 I’m interested in Game Development
 - 🌱 I’m currently learning C#
 
 <!---
